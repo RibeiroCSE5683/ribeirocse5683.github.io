@@ -26,9 +26,14 @@
 
 5. Camera calibration
 
-   
+   1. Single camera
+   2. Multiple cameras
 
-   
+6. [3-D triangulation from multiple views](multiview_triangulation/triangulation3D_soldiers.html)
+
+    
+
+    
 
 
 

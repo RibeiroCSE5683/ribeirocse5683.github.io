@@ -26,7 +26,7 @@
 
 5. Camera calibration
 
-6. 
+   
 
    
 

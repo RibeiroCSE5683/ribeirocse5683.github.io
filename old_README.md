@@ -27,7 +27,9 @@
 5. Camera calibration
 
    
-
+```math
+x = \sqrt{y^2}
+```
    
 
 

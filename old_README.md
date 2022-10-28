@@ -29,7 +29,9 @@
    
 ```math
 $$
+\begin{align}
 x = \sqrt{y^2}
+\end{align}
 $$
 ```
    
